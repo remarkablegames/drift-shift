@@ -4,20 +4,20 @@
 
 # Three.js Template
 
-[![release](https://img.shields.io/github/v/release/remarkablegames/threejs-template)](https://github.com/remarkablegames/threejs-template/releases)
-[![build](https://github.com/remarkablegames/threejs-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/threejs-template/actions/workflows/build.yml)
+[![release](https://img.shields.io/github/v/release/remarkablegames/drift-shift)](https://github.com/remarkablegames/drift-shift/releases)
+[![build](https://github.com/remarkablegames/drift-shift/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/drift-shift/actions/workflows/build.yml)
 
-<kbd>threejs-template</kbd> is a template for building [Three.js](https://threejs.org/) games.
+<kbd>drift-shift</kbd> is a template for building [Three.js](https://threejs.org/) games.
 
 Play in your browser:
 
-- [remarkablegames](https://remarkablegames.org/threejs-template/)
+- [remarkablegames](https://remarkablegames.org/drift-shift/)
 
 Or download for desktop:
 
-- [Windows](https://github.com/remarkablegames/threejs-template/releases/latest/download/windows.zip)
-- [macOS](https://github.com/remarkablegames/threejs-template/releases/latest/download/macos.zip)
-- [Linux](https://github.com/remarkablegames/threejs-template/releases/latest/download/linux.zip)
+- [Windows](https://github.com/remarkablegames/drift-shift/releases/latest/download/windows.zip)
+- [macOS](https://github.com/remarkablegames/drift-shift/releases/latest/download/macos.zip)
+- [Linux](https://github.com/remarkablegames/drift-shift/releases/latest/download/linux.zip)
 
 ## Prerequisites
 
@@ -32,8 +32,8 @@ brew install nvm
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablegames/threejs-template.git
-cd threejs-template
+git clone https://github.com/remarkablegames/drift-shift.git
+cd drift-shift
 ```
 
 Install the dependencies:
@@ -45,7 +45,7 @@ npm install
 Rename the project:
 
 ```sh
-git grep -l threejs-template | xargs sed -i '' -e 's/threejs-template/my-game/g'
+git grep -l drift-shift | xargs sed -i '' -e 's/drift-shift/my-game/g'
 ```
 
 ```sh
