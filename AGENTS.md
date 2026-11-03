@@ -49,3 +49,9 @@ Code style:
 - [ESLint](./eslint.config.mts) with `typescript-eslint` strict and stylistic type-checked configs
   - Sort imports and exports with `simple-import-sort`
   - Avoid unnecessary type casting, only annotate or assert types when inference is genuinely impossible
+
+UI:
+
+- Use jsx-dom with React conventions (`<div class="...">text</div>`)
+- Files must end with `.tsx`
+- Do not use `document.createElement`, `innerHTML`, `appendChild`, or inline styles
