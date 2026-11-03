@@ -54,7 +54,7 @@ UI:
 
 - Use jsx-dom with React conventions
   - Function components
-  - Hooks like `useText` and `useClassList`
+  - Hooks like `useClassList`, `useRef`, and `useText`
   - JSX syntax like `<div class="...">text</div>`
 - Don't use `document.createElement`, `innerHTML`, `appendChild`, `style.display`, or inline styles
 - Files must end with `.tsx`
