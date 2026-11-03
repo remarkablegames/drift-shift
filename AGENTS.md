@@ -52,6 +52,9 @@ Code style:
 
 UI:
 
-- Use jsx-dom with React conventions (`<div class="...">text</div>`)
+- Use jsx-dom with React conventions
+  - Function components
+  - Hooks like `useText` and `useClassList`
+  - JSX syntax like `<div class="...">text</div>`
+- Don't use `document.createElement`, `innerHTML`, `appendChild`, `style.display`, or inline styles
 - Files must end with `.tsx`
-- Do not use `document.createElement`, `innerHTML`, `appendChild`, or inline styles
