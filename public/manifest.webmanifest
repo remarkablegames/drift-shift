@@ -1,7 +1,7 @@
 {
-  "name": "Three.js Template",
-  "short_name": "Three.js Template",
-  "description": "Three.js Template",
+  "name": "Drift Shift",
+  "short_name": "Drift Shift",
+  "description": "🏎️ Drift, shift, drive.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#000000",

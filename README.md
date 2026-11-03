@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="public/logo.svg" width="250" alt="Three.js Template">
+  <img src="public/logo.svg" width="250" alt="Drift Shift">
 </p>
 
-# Three.js Template
+# Drift Shift
 
 [![release](https://img.shields.io/github/v/release/remarkablegames/drift-shift)](https://github.com/remarkablegames/drift-shift/releases)
 [![build](https://github.com/remarkablegames/drift-shift/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/drift-shift/actions/workflows/build.yml)
 
-<kbd>drift-shift</kbd> is a template for building [Three.js](https://threejs.org/) games.
+🏎️ Drift, shift, drive.
 
 Play in your browser:
 
@@ -41,24 +41,6 @@ Install the dependencies:
 ```sh
 npm install
 ```
-
-Rename the project:
-
-```sh
-git grep -l drift-shift | xargs sed -i '' -e 's/drift-shift/my-game/g'
-```
-
-```sh
-git grep -l 'Three.js Template' | xargs sed -i '' -e 's/Three.js Template/My Game/g'
-```
-
-Update the files:
-
-- [ ] `README.md`
-- [ ] `index.html`
-- [ ] `package.json`
-- [ ] `public/logo.svg`
-- [ ] `public/manifest.webmanifest`
 
 ## Available Scripts
 
