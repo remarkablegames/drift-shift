@@ -1,7 +1,7 @@
 {
   "name": "drift-shift",
   "private": true,
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "scripts": {
     "build": "npm run clean && vite build",
     "bundle": "bash scripts/bundle.sh",
