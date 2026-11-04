@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.svg" width="250" alt="Drift Shift">
+  <img src="public/logo.svg" width="200" alt="Drift Shift">
 </p>
 
 # Drift Shift
@@ -7,17 +7,11 @@
 [![release](https://img.shields.io/github/v/release/remarkablegames/drift-shift)](https://github.com/remarkablegames/drift-shift/releases)
 [![build](https://github.com/remarkablegames/drift-shift/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/drift-shift/actions/workflows/build.yml)
 
-🏎️ Drift, shift, drive.
+🏎️ Drift, shift, drive (demo).
 
 Play in your browser:
 
 - [remarkablegames](https://remarkablegames.org/drift-shift/)
-
-Or download for desktop:
-
-- [Windows](https://github.com/remarkablegames/drift-shift/releases/latest/download/windows.zip)
-- [macOS](https://github.com/remarkablegames/drift-shift/releases/latest/download/macos.zip)
-- [Linux](https://github.com/remarkablegames/drift-shift/releases/latest/download/linux.zip)
 
 ## Prerequisites
 
